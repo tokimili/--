@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\",
+  "WorkspaceRootPath": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|c:\\users\\atents\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|c:\\users\\atents\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\animation\\springarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animation\\springarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\animation\\rootmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\animation\\rootmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animation\\rootmotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\animation\\animproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\animation\\springarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animation\\springarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\animation\\animproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\animation\\animproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|c:\\users\\atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\assets\\scripts\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452EB288-5587-53CC-EBD7-F5321F36B4F6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,55 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SpringArm.cs",
-              "DocumentMoniker": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\SpringArm.cs",
+              "DocumentMoniker": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\SpringArm.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Animation\\SpringArm.cs",
-              "ToolTip": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\SpringArm.cs",
+              "ToolTip": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\SpringArm.cs",
               "RelativeToolTip": "Assets\\Scripts\\Animation\\SpringArm.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwCUAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA3wDEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T06:14:45.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "RootMotion.cs",
-              "DocumentMoniker": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\RootMotion.cs",
+              "DocumentMoniker": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\RootMotion.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Animation\\RootMotion.cs",
-              "ToolTip": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\RootMotion.cs",
+              "ToolTip": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\RootMotion.cs",
               "RelativeToolTip": "Assets\\Scripts\\Animation\\RootMotion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T05:39:26.902Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "AnimProperty.cs",
-              "DocumentMoniker": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\AnimProperty.cs",
+              "DocumentMoniker": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\AnimProperty.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Animation\\AnimProperty.cs",
-              "ToolTip": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\AnimProperty.cs",
+              "ToolTip": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\Animation\\AnimProperty.cs",
               "RelativeToolTip": "Assets\\Scripts\\Animation\\AnimProperty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T05:09:08.225Z"
+              "WhenOpened": "2025-02-25T05:09:08.225Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PlayerAction.cs",
-              "DocumentMoniker": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\PlayerAction.cs",
+              "DocumentMoniker": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\PlayerAction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAction.cs",
-              "ToolTip": "C:\\Users\\Atents\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\PlayerAction.cs",
+              "ToolTip": "C:\\Users\\Atents\\----\\\uAC1C\uC778\uD3EC\uD3F4\\Assets\\Scripts\\PlayerAction.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T03:48:31.604Z",
               "EditorCaption": ""
