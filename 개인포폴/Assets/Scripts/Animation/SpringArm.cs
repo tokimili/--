@@ -9,7 +9,7 @@ public class SpringArm : MonoBehaviour
     [SerializeField] LayerMask crashMask;
     public Transform myCam;
     float camDist = 0.0f;
-    float rotX, rotY ,targetRotX, targetRotY;
+    float rotX, rotY, targetRotX, targetRotY;
     float targetDist;
     private void Start()
     {
@@ -39,16 +39,16 @@ public class SpringArm : MonoBehaviour
 
 
         transform.localRotation = Quaternion.Euler(-targetRotY, 0, 0);
-        transform.parent.localRotation = Quaternion.Euler(0, targetRotX,0);
+        transform.parent.localRotation = Quaternion.Euler(0, targetRotX, 0);
 
         float tmpScroll = Input.GetAxis("Mouse ScrollWheel");
         //if (!Mathf.Approximately(tmpScroll, 0))
         {
             camDist = Mathf.Lerp(camDist, targetDist, Time.deltaTime);
-            myCam.localPosition = new Vector3(0,0, -camDist);
+            myCam.localPosition = new Vector3(0, 0, -camDist);
         }
         float offset = 0.5f;
-        if (Physics.Raycast(transform.position, -transform.forward, out RaycastHit hit,camDist + offset,crashMask))
+        if (Physics.Raycast(transform.position, -transform.forward, out RaycastHit hit, camDist + offset, crashMask))
         {
             myCam.position = hit.point + transform.forward * offset;
             camDist = hit.distance - offset;
